@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font-family: 'Kalam', cursive;
+    border: solid 10px white;
+    background: url("https://walker-web.imgix.net/cms/Gradient_builder_2.jpg?auto=format,compress&w=1920&h=1200&fit=max&dpr=1.5");
+}
+h1 {
+    text-decoration:underline;
+}
+p {
+    text-decoration:underline;
+}
